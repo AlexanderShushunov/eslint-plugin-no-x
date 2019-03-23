@@ -1,6 +1,8 @@
 # eslint-plugin-no-x
 
-no x in names of classes
+No x in names of classes
+
+This is experiment to write rule. It was not published.
 
 ## Installation
 
